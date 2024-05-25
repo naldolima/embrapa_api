@@ -1,10 +1,5 @@
 __pycache__
-# .env  For others convenience added .env
-env 
-
-sql_app.db
-test_db.db 
-
+env
 .pytest_cache
 htmlcov
 .coverage
