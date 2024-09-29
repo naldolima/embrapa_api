@@ -62,6 +62,18 @@ Utilizar o Token:
 > Type: OAuth 2.0, Current token: coloque o token gerado conforme 
 > passo anterior, Header Prefix: Bearer
 
+## Como executar o modelo de ML Exemplo de Regressão Logística?
+```
+cd .\backend\modelos
+python.exe .\regressao.py
+```
+
+Visualizar o resultado do teste no Power BI:
+> Com o Power BI instalado na sua máquina, localize o arquivo no caminho: .\dashborad\
+>> modelo_classificacao.pbix
+
+![](backend/images/dashboard.JPG)
+
 Temas abordados:
  - ✔️ Serving Template
  - ✔️ Connecting to Database
@@ -70,3 +82,6 @@ Temas abordados:
  - ✔️ Password Hashing
  - ✔️ Authentication login/create user/get token
  - ✔️ Authorization/Permissions
+ - ✔️ sklearn
+ - ✔️ LogisticRegression
+ - ✔️ Power BI
