@@ -14,6 +14,8 @@
 
 [Embrapa Site](http://vitibrasil.cnpuv.embrapa.br)
 
+[Video Explicativo](https://youtu.be/DVCTuCq1edU)
+
 
 ## Tecnologias Utilizadas:
 * Python
